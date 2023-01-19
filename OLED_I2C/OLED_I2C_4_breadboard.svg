@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="breadboard" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="98.4px" height="91.4px" viewBox="0 0 98.4 91.4" enable-background="new 0 0 98.4 91.4" xml:space="preserve">
+<g id="pcb_layout">
+	<path id="background" fill="#274A89" d="M0,0v91.4h29.2V79h40v12.3h29.2V0H0z M6.2,89.1c-2.2,0-3.9-1.7-3.9-3.9s1.7-3.9,3.9-3.9
+		c2.2,0,3.9,1.7,3.9,3.9S8.3,89.1,6.2,89.1z M6.2,10.2c-2.2,0-3.9-1.7-3.9-3.9S4,2.5,6.2,2.5c2.2,0,3.9,1.7,3.9,3.9
+		S8.3,10.2,6.2,10.2z M38.4,6.4c-1.1,0-2.1-0.9-2.1-2.1c0-1.2,0.9-2.1,2.1-2.1s2.1,0.9,2.1,2.1C40.5,5.5,39.5,6.4,38.4,6.4z
+		 M45.6,6.4c-1.1,0-2.1-0.9-2.1-2.1s0.9-2.1,2.1-2.1c1.1,0,2.1,0.9,2.1,2.1S46.8,6.4,45.6,6.4z M52.8,6.4c-1.1,0-2.1-0.9-2.1-2.1
+		c0-1.2,0.9-2.1,2.1-2.1c1.1,0,2.1,0.9,2.1,2.1C54.9,5.5,53.9,6.4,52.8,6.4z M60,6.4c-1.1,0-2.1-0.9-2.1-2.1c0-1.2,0.9-2.1,2.1-2.1
+		s2.1,0.9,2.1,2.1C62.1,5.5,61.2,6.4,60,6.4z M92.3,89.1c-2.2,0-3.9-1.7-3.9-3.9s1.7-3.9,3.9-3.9c2.2,0,3.9,1.7,3.9,3.9
+		S94.4,89.1,92.3,89.1z M92.3,10.2c-2.2,0-3.9-1.7-3.9-3.9s1.7-3.9,3.9-3.9c2.2,0,3.9,1.7,3.9,3.9S94.4,10.2,92.3,10.2z"/>
+	<g>
+		<text id="GND" transform="matrix(1 0 0 1 35.155 11.0463)" fill="#FFFFFF" font-family="'OCRA'" font-size="3px">GND</text>
+		<text id="VCC" transform="matrix(1 0 0 1 42.3552 11.0462)" fill="#FFFFFF" font-family="'OCRA'" font-size="3px">VCC</text>
+		<text id="SCL" transform="matrix(1 0 0 1 49.5544 11.0462)" fill="#FFFFFF" font-family="'OCRA'" font-size="3px">SCL</text>
+		<text id="SDA" transform="matrix(1 0 0 1 56.7568 11.0462)" fill="#FFFFFF" font-family="'OCRA'" font-size="3px">SDA</text>
+		<circle id="connector4pad" fill="none" stroke="#9A916C" stroke-width="1.3187" cx="60.1" cy="4.3" r="2.1"/>
+		<circle id="connector3pad" fill="none" stroke="#9A916C" stroke-width="1.3187" cx="52.8" cy="4.3" r="2.1"/>
+		<circle id="connector2pad" fill="none" stroke="#9A916C" stroke-width="1.3187" cx="45.6" cy="4.3" r="2.1"/>
+		<circle id="connector1pad" fill="none" stroke="#9A916C" stroke-width="1.3187" cx="38.4" cy="4.3" r="2.1"/>
+	</g>
+	<path id="mount4" fill="#9A916C" d="M6.2,0.7C3,0.7,0.5,3.2,0.5,6.4S3,12,6.2,12c3.1,0,5.7-2.5,5.7-5.7S9.3,0.7,6.2,0.7z M6.2,10.2
+		c-2.2,0-3.9-1.7-3.9-3.9S4,2.5,6.2,2.5c2.2,0,3.9,1.7,3.9,3.9S8.3,10.2,6.2,10.2z"/>
+	<path id="mount3" fill="#9A916C" d="M92.3,0.7c-3.1,0-5.7,2.5-5.7,5.7s2.5,5.7,5.7,5.7c3.1,0,5.7-2.5,5.7-5.7S95.4,0.7,92.3,0.7z
+		 M92.3,10.2c-2.2,0-3.9-1.7-3.9-3.9s1.7-3.9,3.9-3.9c2.2,0,3.9,1.7,3.9,3.9S94.4,10.2,92.3,10.2z"/>
+	<path id="mount2" fill="#9A916C" d="M92.3,79.5c-3.1,0-5.7,2.5-5.7,5.7c0,3.1,2.5,5.7,5.7,5.7c3.1,0,5.7-2.5,5.7-5.7
+		C97.9,82.1,95.4,79.5,92.3,79.5z M92.3,89.1c-2.2,0-3.9-1.7-3.9-3.9s1.7-3.9,3.9-3.9c2.2,0,3.9,1.7,3.9,3.9S94.4,89.1,92.3,89.1z"
+		/>
+	<path id="mount1" fill="#9A916C" d="M6.2,79.5c-3.1,0-5.7,2.5-5.7,5.7c0,3.1,2.5,5.7,5.7,5.7c3.1,0,5.7-2.5,5.7-5.7
+		C11.8,82.1,9.3,79.5,6.2,79.5z M6.2,89.1c-2.2,0-3.9-1.7-3.9-3.9s1.7-3.9,3.9-3.9c2.2,0,3.9,1.7,3.9,3.9S8.3,89.1,6.2,89.1z"/>
+</g>
+<rect y="13.8" fill="#9B9D9E" width="98.4" height="65.2"/>
+<rect y="13.8" width="98.4" height="53"/>
+<rect x="32.2" y="78.9" fill="#3F2C07" width="34" height="7.1"/>
+<rect x="36.1" y="78.9" fill="#0F1316" width="26.2" height="7.1"/>
+<rect x="26.1" y="67.7" fill="#0F1316" width="46.2" height="11.3"/>
+<line fill="#30343A" x1="72.3" y1="79" x2="72.3" y2="76.3"/>
+<polygon points="26.1,79 26.1,77.1 0,67.7 0,79 "/>
+<polygon points="26.1,70.4 0,66.8 26.1,76.3 "/>
+<polygon points="72.3,79.1 72.3,77.1 98.4,67.7 98.4,79.1 "/>
+<polygon points="72.3,70.5 98.4,66.9 72.3,76.3 "/>
+<rect x="2.8" y="16.2" fill="#212326" width="92.7" height="48.2"/>
+<text transform="matrix(1 0 0 1 10.0669 45.6802)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'DroidSans'" font-size="7px">1.3”  I2C  OLED</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'DroidSans'" font-size="7px">128X64 1.3 Inch </tspan><tspan x="0" y="16.8" fill="#FFFFFF" font-family="'DroidSans'" font-size="7px">SSD1106</tspan></text>
+</svg>

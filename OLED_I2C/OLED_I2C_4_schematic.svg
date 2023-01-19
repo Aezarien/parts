@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="37.1px" height="39.4px" viewBox="0 0 37.1 39.4" overflow="visible" xml:space="preserve">
+<rect x="-29.4" y="-48.7" display="none" fill="#F2F2F2" width="122.1" height="122.1"/>
+<rect id="part_symbol" x="0.5" y="7.5" fill="#FFFFFF" stroke="#000000" stroke-width="0.9002" stroke-linecap="round" width="36.2" height="31.4"/>
+<g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="5.7" y1="0.3" x2="5.7" y2="7.5"/>
+		</g>
+		<text transform="matrix(0 1 -1 0 6.8721 3.0899)" fill="#555555" font-family="'DroidSans'" font-size="3px">1</text>
+		<text transform="matrix(0 1 -1 0 4.5459 9.5685)" fill="#555555" font-family="'DroidSans'" font-size="4.5px">GND</text>
+	</g>
+	
+		<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="29.9" y1="0.3" x2="29.9" y2="7.5"/>
+	<text transform="matrix(0 1 -1 0 31.1806 3.1241)" fill="#555555" font-family="'DroidSans'" font-size="3px">4</text>
+	<text transform="matrix(0 1 -1 0 28.667 9.569)" fill="#555555" font-family="'DroidSans'" font-size="4.5px">S</text>
+	<text transform="matrix(0 1 -1 0 28.667 11.9049)" fill="#555555" font-family="'DroidSans'" font-size="4.5px">D</text>
+	<text transform="matrix(0 1 -1 0 28.667 14.9391)" fill="#555555" font-family="'DroidSans'" font-size="4.5px">A</text>
+	
+		<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="22.7" y1="0.3" x2="22.7" y2="7.5"/>
+	<text transform="matrix(0 1 -1 0 24.0556 3.1242)" fill="#555555" font-family="'DroidSans'" font-size="3px">3</text>
+	<text transform="matrix(0 1 -1 0 21.4658 9.569)" fill="#555555" font-family="'DroidSans'" font-size="4.5px">SCL</text>
+	<g>
+		
+			<line fill="none" stroke="#555555" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" x1="14.9" y1="0.3" x2="14.9" y2="7.5"/>
+	</g>
+	<text transform="matrix(0 1 -1 0 16.0674 3.0899)" fill="#555555" font-family="'DroidSans'" font-size="3px">2</text>
+	<text transform="matrix(0 1 -1 0 13.667 9.5685)" fill="#555555" font-family="'DroidSans'" font-size="4.5px">V</text>
+	<text transform="matrix(0 1 -1 0 13.667 12.0338)" fill="#555555" font-family="'DroidSans'" font-size="4.5px">C</text>
+	<text transform="matrix(0 1 -1 0 13.667 14.6574)" fill="#555555" font-family="'DroidSans'" font-size="4.5px">C</text>
+</g>
+<text transform="matrix(1 0 0 1 4.5461 25.5992)" font-family="'DroidSans'" font-size="4px">1.3”  I2C  OLED</text>
+<text transform="matrix(1 0 0 1 4.5461 30.399)" font-family="'DroidSans'" font-size="4px">128X64 SSD1106</text>
+<text transform="matrix(1 0 0 1 -113.3277 -58.7072)" font-family="'DroidSans'" font-size="4px">Lorem ipsum</text>
+</svg>
